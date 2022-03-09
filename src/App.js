@@ -10,7 +10,7 @@ class App extends React.Component {
     constructor (){
         super();
         this.state = {
-            robots : [], //you can also do <robots : robots> if you dont want to fetch api
+            robots : [], //you can also do <robots : robots> if you dont want to fetch api.
             searchfield : ''
         }
     }
